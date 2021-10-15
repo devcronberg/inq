@@ -7,3 +7,9 @@ Prøv at installere [Web Developer Tool](https://chrome.google.com/webstore/deta
 - http://webdemo.cronberg.dk/page1
 - https://inqludeit.dk/
 
+## Links fra 15/10
+
+- https://www.browserstack.com/
+- https://www.cypress.io/
+- [21+ Browser Dev Tools & Tips You Need To Know](https://www.youtube.com/watch?v=TcTSqhpm80Y)
+
