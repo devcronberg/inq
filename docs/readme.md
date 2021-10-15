@@ -15,3 +15,4 @@ Prøv at installere [Web Developer Tool](https://chrome.google.com/webstore/deta
 - [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=da)
 - [Youtube Chrome Dev](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw)
 - [Canary](https://www.google.com/intl/da/chrome/canary/)
+- [Hacket Newletter](https://hackernewsletter.com/)
