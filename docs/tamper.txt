@@ -1,0 +1,30 @@
+// ==UserScript==
+// @name         New Userscript
+// @namespace    http://tampermonkey.net/
+// @version      0.1
+// @description  try to take over the world!
+// @author       You
+// @match        http://webdemo.cronberg.dk/page4
+// @icon         https://www.google.com/s2/favicons?domain=cronberg.dk
+// @grant        none
+// ==/UserScript==
+
+(function() {
+    'use strict';
+
+
+    var btn = document.createElement("BUTTON");
+    btn.innerHTML = "CLICK ME";
+    document.body.prepend(btn);
+    btn.onclick = function(){
+    let h = document.getElementsByTagName("h1")[0];
+    h.style.color = "red";
+    document.getElementById("txtName_id").value = "hfhfhfchfhfh";
+};
+
+})();
+
+function test(){
+console.log("min test");
+}
+
