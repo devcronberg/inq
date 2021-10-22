@@ -23,3 +23,10 @@ Prøv at installere [Web Developer Tool](https://chrome.google.com/webstore/deta
 - https://letsencrypt.org/
 - https://github.com/win-acme/win-acme
 - https://brave.com/
+- https://www.gratisdns.com/
+- https://en.wikipedia.org/wiki/Ada_Lovelace 
+- https://curl.se/
+
+## Til næste gang
+
+Powershell script til at foretage HTTP og finde alle img-tags uden alt
