@@ -20,3 +20,6 @@ Prøv at installere [Web Developer Tool](https://chrome.google.com/webstore/deta
 ## Links fra 22/10
 
 - https://www.telerik.com/fiddler/fiddler-classic
+- https://letsencrypt.org/
+- https://github.com/win-acme/win-acme
+- https://brave.com/
