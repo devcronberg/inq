@@ -1,4 +1,4 @@
-# Opgaver
+-# Opgaver
 
 ## W3C 
 
@@ -27,6 +27,13 @@ Prøv at installere [Web Developer Tool](https://chrome.google.com/webstore/deta
 - https://en.wikipedia.org/wiki/Ada_Lovelace 
 - https://curl.se/
 
+## Links fra 29/10
+
+- [Opgaver](https://github.com/devcronberg/undervisning-html-opgaver)
+- [Emmet](https://docs.emmet.io/cheat-sheet/)
+
+
 ## Til næste gang
 
-Powershell script til at foretage HTTP og finde alle img-tags uden alt
+- HTML 
+ - Emmet
