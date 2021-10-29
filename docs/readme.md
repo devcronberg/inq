@@ -33,7 +33,3 @@ Prøv at installere [Web Developer Tool](https://chrome.google.com/webstore/deta
 - [Emmet](https://docs.emmet.io/cheat-sheet/)
 
 
-## Til næste gang
-
-- HTML 
- - Emmet
